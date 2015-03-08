@@ -1,0 +1,185 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "All",
+                "wallpaper": [
+                    {
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesBlue.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesBlue.png",
+                        "name": "Blue Circles"
+                    },
+                    {
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesGreen.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesGreen.png",
+                        "name": "Green Circles"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
+                        "name": "Orange Circles"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
+                        "name": "Purple Circles"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesRed.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesRed.png",
+                        "name": "Red Circles"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesBlue.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesBlue.png",
+                        "name": "Blue Lines"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesGreen.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesGreen.png",
+                        "name": "Green Lines"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesPastel.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesPastel.png",
+                        "name": "Pastel Lines"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesPink.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesPink.png",
+                        "name": "Pink Lines"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesPurple.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesPurple.png",
+                        "name": "Purple Lines"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesTeal.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesTeal.png",
+                        "name": "Teal Lines"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/3IdeaLLegacy/IdeaLLegacy1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/3IdeaLLegacy/IdeaLLegacy1.png",
+                        "name": "IdeaL Legacy One"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/3IdeaLLegacy/IdeaLLegacy2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/3IdeaLLegacy/IdeaLLegacy2.png",
+                        "name": "IdeaL Legacy Two"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/3IdeaLLegacy/IdeaLLegacy3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/3IdeaLLegacy/IdeaLLegacy3.png",
+                        "name": "IdeaL Legacy Three"
+                    },
+					{
+                        "author": "Unknown",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/4FimboStyle/FimboStyle1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/4FimboStyle/FimboStyle1.png",
+                        "name": "Fimbo Style One"
+                    },
+					{
+                        "author": "Unknown",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/4FimboStyle/FimboStyle2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/4FimboStyle/FimboStyle2.png",
+                        "name": "Fimbo Style Two"
+                    },
+					{
+                        "author": "Unknown",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/4FimboStyle/FimboStyle3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/4FimboStyle/FimboStyle3.png",
+                        "name": "Fimbo Style Three"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/Arrows.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/Arrows.png",
+                        "name": "Arrows"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/Squares.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/Squares.png",
+                        "name": "Squares"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/Triangles.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/Triangles.png",
+                        "name": "Triangles"
+                    },
+					{
+                        "author": "Juan M. Saracho",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/TrianglesBrown.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/5Shapes/TrianglesBrown.png",
+                        "name": "Triangles Brown"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/6Minimal/MoonShine.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/6Minimal/MoonShine.png",
+                        "name": "Moonshine"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/6Minimal/Stars.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/6Minimal/Stars.png",
+                        "name": "Stars"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/7Fragments/Fragment1.jpg",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/7Fragments/Fragment1.jpg",
+                        "name": "Fragment One"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/7Fragments/Fragment2.jpg",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/7Fragments/Fragment2.jpg",
+                        "name": "Fragment Two"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/Circles1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/Circles1.png",
+                        "name": "Flat Circles One"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/Circles2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/Circles2.png",
+                        "name": "Flat Circles Two"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/Material.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/Material.png",
+                        "name": "Material One"
+                    },
+					{
+                        "author": "Jahir Fiquitiva",
+                        "url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/MaterialTwo.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/8Others/MaterialTwo.png",
+                        "name": "Material Two"
+                    }
+                ]
+            }
+        ]
+    }
+}
